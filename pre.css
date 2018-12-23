@@ -1,0 +1,37 @@
+*
+{
+	color: white;
+}
+*
+{
+	font-family: Impact
+}
+*
+{
+	font-weight: bold;
+}
+a
+{
+	font-size: 46px;
+}
+*
+{
+	text-align: justify;
+}
+.ole
+{
+	float: right;
+}
+body
+{
+	background-color: rgb(34,54,146);
+	background-attachment: fixed;
+}
+.haut
+{
+	text-decoration: rgb(34,54,146);
+}
+h1
+{
+	border: 3px white solid;
+}
