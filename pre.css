@@ -1,18 +1,11 @@
 *
 {
 	color: white;
-}
-*
-{
 	font-family: Impact
-}
-*
-{
-	font-weight: bold;
 }
 a
 {
-	font-size: 29px;
+	font-size: 30px;
 }
 *
 {
@@ -24,14 +17,35 @@ a
 }
 body
 {
-	background-color: rgb(34,54,146);
+	background-color: rgb(34,54,126);
 	background-attachment: fixed;
 }
 .haut
 {
 	text-decoration: rgb(34,54,146);
 }
-h1
+.haut,.ole
 {
-	border: 3px white solid;
+	border: 5px white inset;
+	border-radius: 15px;
+	box-shadow: 6px 6px 6px black;
+	background-color: #CCC;
+	text-shadow: 6px 6px 6px black;
+}
+a:active
+{
+	border: 5px white inset;
+	border-radius: 15px;
+}
+.haut
+{
+	width: 99%;
+}
+.mise
+{
+	border: 5px white inset;
+	border-radius: 15px;
+	box-shadow: 6px 6px 6px black;
+	text-shadow: 6px 6px 6px black;
+	margin: 30px;
 }
