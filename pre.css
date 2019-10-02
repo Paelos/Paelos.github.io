@@ -7,22 +7,22 @@ body
 {
 	color: white;
 	font-family: Monaco
+	text-align: justify;
 }
 a
 {
 	font-size: 30px;
 }
-*
-{
-	text-align: justify;
-}
+
 .ole
 {
 	float: right;
 }
 body
 {
-	background-color: rgb(34,54,126);
+	background-attachment: fixed;
+	background-image: url(starry-skies-in-the-dessert-canyons.jpg);
+	background-position: center bottom;
 	background-attachment: fixed;
 }
 .haut
@@ -58,8 +58,7 @@ body
 }
 .bas
 {
-	font-size: 9px;
-	margin:2px auto;
+	font-size: 16px;
 	width:50%;
-	padding:2px;
+	text-align: center;
 }
